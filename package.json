@@ -4,7 +4,7 @@
   "description": "js lib for determining order of elements within stacking context tree",
   "main": "index.js",
   "scripts": {
-    "build": "tsc",
+    "build": "gulp",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -22,7 +22,11 @@
   },
   "homepage": "https://github.com/rhys-e/z-order-js#readme",
   "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.4.0",
+    "ts-loader": "^4.0.0",
     "tslint": "^5.9.1",
-    "typescript": "^2.7.2"
+    "typescript": "^2.7.2",
+    "webpack": "^4.0.1"
   }
 }
