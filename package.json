@@ -22,11 +22,11 @@
   },
   "homepage": "https://github.com/rhys-e/z-order-js#readme",
   "devDependencies": {
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.0",
     "gulp-clean": "^0.4.0",
     "ts-loader": "^4.0.0",
     "tslint": "^5.9.1",
     "typescript": "^2.7.2",
-    "webpack": "^4.0.1"
+    "webpack": "^4.26.1"
   }
 }
